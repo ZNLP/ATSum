@@ -1,0 +1,14 @@
+{
+    "vocab": [
+        "/path/to/sourcevocab/vocab.cn.10w",
+        "/path/to/targetvocab/vocab.en.4w"
+    ],
+    "model_path": "/path/to/checkpoint",
+    "input": "/path/to/testinput/test.input.tokens.bpe",
+    "output": "/path/to/saveresult",
+    "strategy": "equal",
+    "beam_size": 4,
+    "min_length": 2,
+    "batch_size": 4096,
+    "tf": false
+}

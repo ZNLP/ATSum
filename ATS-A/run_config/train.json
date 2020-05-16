@@ -1,0 +1,25 @@
+{
+    "train": [
+        "/path/to/traininput/train.input.tokens.bpe",
+        "/path/to/trainref/train.output.en.bpe"
+    ],
+    "valid": [
+        "/path/to/validinput/valid.input.tokens.bpe",
+        "/path/to/validref/valid.output.en.bpe"
+    ],
+    "vocab": [
+        "/path/to/sourcevocab/vocab.cn.10w",
+        "/path/to/targetvocab/vocab.en.4w"
+    ],
+    "model_path": "/path/to/modelname",
+    "layers": 6,
+    "heads": 8,
+    "hidden_size": 512,
+    "ff_size": 2048,
+    "batch_size": 3072,
+    "warm_up": 16000,
+    "report_every": 100,
+    "save_every": 5000,
+    "max_to_keep": 50,
+    "tf": true
+}

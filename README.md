@@ -50,4 +50,4 @@ If you have any question, please feel free to contact us by sending an email to 
 This project is licensed under the BSD License - see [LICENSE.md](LICENSE.md) for details.
 
 ## Copyright
-The copyright of this code belongs to the authors, and the code is only used for research purposes. Display, reproduction, transmission, distribution or publication of this dataset is prohibited.
+The copyright of this code belongs to the authors, and the code is only used for research purposes. Display, reproduction, transmission, distribution or publication of this code is prohibited.
